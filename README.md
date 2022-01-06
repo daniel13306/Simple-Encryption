@@ -26,7 +26,10 @@ WHAT DOES IT DO
      After this, the Binary code will be saved in 'yourfilename.txt', your ready to Encrypt the '.txt' Binary File!
      The only way to Decrypt the 'encryptedBinary.bin' output file (From Encryption) is with the corresponding Password.
    
-
+   - Decrypt Binary #2
+     
+     When Decrypting Binary, your given the choice to save the Decrypted Binary as any filetype. is the Decrypted Binary an .exe? save it as myfile.exe!
+     
    - This Software is [FREE] to use in ANY Case.
 
      Join our Community via the link;
