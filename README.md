@@ -18,7 +18,7 @@ WHAT DOES IT DO
    - Decrypt UTF-8 Text
      
      When Encrypting, it will ask you to enter a password, this password will be mixed in with your Encryption.
-     The only way to Decrypt the 'encrypted.bin' output file (From Encryption) is with the corresponding Password.
+     The only way to Decrypt the 'encrypted.bin' output file is with the corresponding Password.
      
    - Decrypt Binary
      
