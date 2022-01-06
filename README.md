@@ -29,8 +29,12 @@ WHAT DOES IT DO
    - Decrypt Binary #2
      
      When Decrypting Binary, your given the choice to save the Decrypted Binary as any filetype. is the Decrypted Binary an .exe? save it as myfile.exe!
-     
+      
+   - Made for Windows
+    
    - This Software is [FREE] to use in ANY Case.
+
+   
 
      Join our Community via the link;
      https://discord.gg/FTmrYbEN8w
