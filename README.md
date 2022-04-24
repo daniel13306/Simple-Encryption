@@ -1,5 +1,6 @@
 # Simple-Encryption [Encrypt UTF-8 & Binary]
 .exe Encryption software, Encrypt UTF-8, Convert any program to Binary, &amp; Encrypt Binary aswell.
+
 THIS PROJECT IS NOT OPENSOURCE.
 
 Written in Python
