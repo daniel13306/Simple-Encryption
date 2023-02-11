@@ -46,4 +46,4 @@ WHAT DOES IT DO
    
    
    
-   httpS://Coding-Community.com
+   https://Coding-Community.com
